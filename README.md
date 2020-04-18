@@ -28,6 +28,7 @@ To setup these configuration files, I compared with those ones:
 - https://github.com/webhive/sunhokey-prusa-i4
 
 Note: review the configuration and update it according to your printer (e.g. I do not have a BLTouch)
+
 3. Compile and Flash using platformio (cf. [doc](https://marlinfw.org/docs/basics/install_platformio_vscode.html))
 
 Now, my i4 uses the latest Marlin 2.0!
