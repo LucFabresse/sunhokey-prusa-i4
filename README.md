@@ -23,14 +23,14 @@ git checkout 2.0.x
 ```
 cp -f ../sunhokey-prusa-i4/Marlin/* Marlin/
 ```
-To setup these configuration files, I compared with those one:
+To setup these configuration files, I compared with those ones:
 - http://aeinc.ru/i4/
 - https://github.com/webhive/sunhokey-prusa-i4
 
 Note: review the configuration and update it according to your printer (e.g. I do not have a BLTouch)
 3. Compile and Flash using platformio (cf. [doc](https://marlinfw.org/docs/basics/install_platformio_vscode.html))
 
-Now, my i4 uses the latest Marlin 2.0 !
+Now, my i4 uses the latest Marlin 2.0!
 (commit hash: 0518dec60d0931745efa2812fa388f33d68cfa29)
 
 ## Useful Links
